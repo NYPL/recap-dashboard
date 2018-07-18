@@ -1,0 +1,4 @@
+institution	invalid	valid	numofbibs	percent_valid
+CUL	240093	2935727	3175820	0.92
+NYPL	332046	1981473	2313519	0.86
+PUL	199596	1806359	2005955	0.9

@@ -1,0 +1,910 @@
+institution	broad_subject_letters	N_in_broad	totalinst	subject_letters	N_in_subject	percent_in_category	percent_in_institution	subject
+CUL	H	324644	2268893	HM	10400	0.03	0	Sociology (General)
+CUL	D	289497	2268893	DG	10023	0.03	0	Italy, Malta
+CUL	H	324644	2268893	HB	20013	0.06	0.01	Economic theory. Demography
+CUL	B	210694	2268893	B	37907	0.18	0.02	Philosophy (General)
+CUL	P	579911	2268893	PH	4225	0.01	0	Uralic languages. Basque language
+CUL	P	579911	2268893	PQ	95129	0.16	0.04	French, Italian, Spanish, and Portuguese literature
+CUL	H	324644	2268893	HC	51462	0.16	0.02	Economic history and conditions
+CUL	H	324644	2268893	HD	84060	0.26	0.04	Industries. Land use. Labor
+CUL	N	154342	2268893	ND	26498	0.17	0.01	Painting
+CUL	P	579911	2268893	PN	67553	0.12	0.03	Literature (General)
+CUL	D	289497	2268893	DB	5435	0.02	0	Austria, Liechtenstein, Hungary, Czechoslovakia
+CUL	P	579911	2268893	PK	63509	0.11	0.03	Indo-Iranian languages and literatures
+CUL	P	579911	2268893	PB	1005	0	0	Modern languages. Celtic languages and literature
+CUL	P	579911	2268893	PA	13878	0.02	0.01	Greek language and literature. Latin language and literature
+CUL	N	154342	2268893	NC	5201	0.03	0	Drawing. Design. Illustration
+CUL	D	289497	2268893	DT	24410	0.08	0.01	Africa
+CUL	D	289497	2268893	DS	129723	0.45	0.06	Asia
+CUL	S	13813	2268893	SB	4912	0.36	0	Horticulture. Plant propagation. Plant breeding
+CUL	G	51954	2268893	G	15372	0.3	0.01	Geography (General). Atlases. Maps
+CUL	P	579911	2268893	PT	40121	0.07	0.02	German, Dutch, Flemish since 1830, Afrikaans, Scandinavian, Old Norse: Old Icelandic and Old Norwegian, Modern Icelandic, Faroese, Danish, Norwegian, and Swedish Literature
+CUL	P	579911	2268893	PS	46995	0.08	0.02	American literature
+CUL	T	78343	2268893	TN	6029	0.08	0	Mining engineering. Metallurgy
+CUL	H	324644	2268893	HA	5651	0.02	0	Statistics
+CUL	P	579911	2268893	PJ	38699	0.07	0.02	Oriental languages and literatures
+CUL	C	17443	2268893	CD	2374	0.14	0	Diplomatics. Archives. Seals
+CUL	P	579911	2268893	PR	51001	0.09	0.02	English literature
+CUL	P	579911	2268893	PG	44973	0.08	0.02	Slavic languages and literatures. Baltic languages. Albanian language
+CUL	Q	126748	2268893	QA	18795	0.15	0.01	Mathematics
+CUL	B	210694	2268893	BX	33219	0.16	0.01	Christian Denominations
+CUL	Q	126748	2268893	QC	20495	0.16	0.01	Physics
+CUL	D	289497	2268893	DC	9184	0.03	0	France, Andorra, Monaco
+CUL	P	579911	2268893	PL	76513	0.13	0.03	Languages and literatures of Eastern Asia, Africa, Oceania
+CUL	D	289497	2268893	DF	2609	0.01	0	Greece
+CUL	P	579911	2268893	P	15063	0.03	0.01	Philology. Linguistics
+CUL	R	80051	2268893	R	8832	0.11	0	Medicine (General)
+CUL	N	154342	2268893	N	38687	0.25	0.02	Visual arts
+CUL	Q	126748	2268893	QB	6922	0.05	0	Astronomy
+CUL	N	154342	2268893	NA	54193	0.35	0.02	Architecture
+CUL	H	324644	2268893	HG	24196	0.07	0.01	Finance
+CUL	Z	52705	2268893	Z	52544	1	0.02	Books (General). Writing. Paleography. Book industries and trade. Libraries. Bibliography
+CUL	T	78343	2268893	TR	4378	0.06	0	Photography
+CUL	Q	126748	2268893	Q	11461	0.09	0.01	Science (General)
+CUL	E	20341	2268893	E	20341	1	0.01	American History
+CUL	D	289497	2268893	DK	32100	0.11	0.01	Russia. Soviet Union. Former Soviet Republics, Poland
+CUL	B	210694	2268893	BR	13888	0.07	0.01	Christianity
+CUL	B	210694	2268893	BJ	5335	0.03	0	Ethics
+CUL	B	210694	2268893	BM	6703	0.03	0	Judaism
+CUL	B	210694	2268893	BS	10653	0.05	0	The Bible
+CUL	P	579911	2268893	PC	4254	0.01	0	Romanic languages
+CUL	N	154342	2268893	NB	7411	0.05	0	Sculpture
+CUL	J	56234	2268893	JQ	9851	0.18	0	Political institutions and public administration (Asia, Africa, Australia, Pacific Area, etc.)
+CUL	B	210694	2268893	BL	23046	0.11	0.01	Religions. Mythology. Rationalism
+CUL	M	72866	2268893	M	35226	0.48	0.02	Music
+CUL	P	579911	2268893	PZ	11124	0.02	0	Fiction and juvenile belles lettres
+CUL	Q	126748	2268893	QP	15310	0.12	0.01	Physiology
+CUL	C	17443	2268893	CT	4883	0.28	0	Biography
+CUL	Q	126748	2268893	QL	7743	0.06	0	Zoology
+CUL	B	210694	2268893	BT	7372	0.03	0	Doctrinal theology
+CUL	H	324644	2268893	HV	21857	0.07	0.01	Social pathology. Social and public welfare. Criminology
+CUL	T	78343	2268893	TJ	5161	0.07	0	Mechanical engineering and machinery
+CUL	F	56911	2268893	F	56911	1	0.03	Local History of the United States and British, Dutch, French, and Latin America
+CUL	U	15335	2268893	U	3834	0.25	0	Military science (General)
+CUL	U	15335	2268893	UA	6302	0.41	0	Armies: Organization, distribution, military situation
+CUL	J	56234	2268893	JX	7661	0.14	0	International law, see JZ and KZ (obsolete)
+CUL	U	15335	2268893	UB	1701	0.11	0	Military administration
+CUL	H	324644	2268893	HF	28857	0.09	0.01	Commerce
+CUL	H	324644	2268893	HN	13976	0.04	0.01	Social history and conditions. Social problems. Social reform
+CUL	H	324644	2268893	HQ	18765	0.06	0.01	The family. Marriage, Women and Sexuality
+CUL	Q	126748	2268893	QH	12954	0.1	0.01	Natural history. Biology
+CUL	H	324644	2268893	HT	14631	0.05	0.01	Communities. Classes. Races
+CUL	H	324644	2268893	HX	11395	0.04	0.01	Socialism. Communism. Anarchism
+CUL	H	324644	2268893	HJ	8667	0.03	0	Public finance
+CUL	B	210694	2268893	BF	17974	0.09	0.01	Psychology
+CUL	C	17443	2268893	CB	2778	0.16	0	History of Civilization
+CUL	D	289497	2268893	D	32882	0.11	0.01	History (General)
+CUL	T	78343	2268893	TD	5144	0.07	0	Environmental technology. Sanitary engineering
+CUL	M	72866	2268893	ML	34410	0.47	0.02	Literature on music
+CUL	H	324644	2268893	HE	9612	0.03	0	Transportation and communications
+CUL	J	56234	2268893	JN	11188	0.2	0	Political institutions and public administration (Europe)
+CUL	J	56234	2268893	JF	1843	0.03	0	Political institutions and public administration
+CUL	T	78343	2268893	TL	4149	0.05	0	Motor vehicles. Aeronautics. Astronautics
+CUL	N	154342	2268893	NE	3608	0.02	0	Print media
+CUL	G	51954	2268893	GV	5780	0.11	0	Recreation. Leisure
+CUL	T	78343	2268893	TK	13758	0.18	0.01	Electrical engineering. Electronics. Nuclear engineering
+CUL	B	210694	2268893	BP	21881	0.1	0.01	Islam. Bahaism. Theosophy, etc.
+CUL	T	78343	2268893	TP	5385	0.07	0	Chemical technology
+CUL	Q	126748	2268893	QK	4210	0.03	0	Botany
+CUL	A	15949	2268893	AM	1187	0.07	0	Museums. Collectors and collecting
+CUL	A	15949	2268893	AC	7814	0.49	0	Collections. Series. Collected works
+CUL	T	78343	2268893	T	5792	0.07	0	Technology (General)
+CUL	T	78343	2268893	TS	4217	0.05	0	Manufacturing engineering. Mass production
+CUL	T	78343	2268893	TC	1973	0.03	0	Hydraulic engineering. Ocean engineering
+CUL	N	154342	2268893	NK	15684	0.1	0.01	Decorative arts
+CUL	L	36462	2268893	LA	9512	0.26	0	History of education
+CUL	Q	126748	2268893	QE	12047	0.1	0.01	Geology
+CUL	D	289497	2268893	DR	13280	0.05	0.01	Balkan Peninsula
+CUL	K	11243	2268893	KZ	382	0.03	0	Law of nations
+CUL	K	11243	2268893	KK	447	0.04	0	Europe
+CUL	K	11243	2268893	KF	6051	0.54	0	United States
+CUL	S	13813	2268893	SD	1238	0.09	0	Forestry. Arboriculture. Silviculture
+CUL	G	51954	2268893	GE	1193	0.02	0	Environmental Sciences
+CUL	J	56234	2268893	JV	2103	0.04	0	Colonies and colonization. Emigration and immigration. International migration
+CUL	J	56234	2268893	JL	1971	0.04	0	Political institutions and public administration (Canada, Latin America, etc.)
+CUL	D	289497	2268893	DD	8904	0.03	0	Germany
+CUL	R	80051	2268893	RM	3763	0.05	0	Therapeutics. Pharmacology
+CUL	D	289497	2268893	DA	9553	0.03	0	Great Britain
+CUL	J	56234	2268893	JA	3023	0.05	0	Political science (General)
+CUL	J	56234	2268893	JC	7506	0.13	0	Political theory
+CUL	D	289497	2268893	DP	4430	0.02	0	Spain, Portugal
+CUL	J	56234	2268893	JK	4891	0.09	0	Political institutions and public administration (United States)
+CUL	D	289497	2268893	DL	729	0	0	Northern Europe. Scandinavia
+CUL	N	154342	2268893	NX	3060	0.02	0	Arts in general
+CUL	A	15949	2268893	AS	4841	0.3	0	Academies and learned societies
+CUL	D	289497	2268893	DQ	646	0	0	Switzerland
+CUL	D	289497	2268893	DU	2915	0.01	0	Oceania (South Seas)
+CUL	P	579911	2268893	PE	3316	0.01	0	English language
+CUL	B	210694	2268893	BD	5811	0.03	0	Speculative philosophy
+CUL	B	210694	2268893	BV	11615	0.06	0.01	Practical Theology
+CUL	G	51954	2268893	GR	7187	0.14	0	Folklore
+CUL	K	11243	2268893	K	2238	0.2	0	Law in general. Comparative and uniform law. Jurisprudence
+CUL	T	78343	2268893	TE	563	0.01	0	Highway engineering. Roads and pavements
+CUL	V	3407	2268893	VM	739	0.22	0	Naval architecture. Shipbuilding. Marine engineering
+CUL	K	11243	2268893	KD	610	0.05	0	United Kingdom and Ireland
+CUL	G	51954	2268893	GN	11752	0.23	0.01	Anthropology
+CUL	G	51954	2268893	GF	1405	0.03	0	Human ecology. Anthropogeography
+CUL	L	36462	2268893	LB	10783	0.3	0	Theory and practice of education
+CUL	V	3407	2268893	VA	754	0.22	0	Navies: Organization, distribution, naval situation
+CUL	U	15335	2268893	UF	456	0.03	0	Artillery
+CUL	T	78343	2268893	TA	12853	0.16	0.01	Engineering Civil engineering (General).
+CUL	R	80051	2268893	RJ	4792	0.06	0	Pediatrics
+CUL	C	17443	2268893	CS	2953	0.17	0	Genealogy
+CUL	Q	126748	2268893	QM	1552	0.01	0	Human anatomy
+CUL	Q	126748	2268893	QD	11526	0.09	0.01	Chemistry
+CUL	L	36462	2268893	LD	4339	0.12	0	Individual institutions - United States
+CUL	U	15335	2268893	UG	2232	0.15	0	Military engineering. Air forces
+CUL	L	36462	2268893	LC	7513	0.21	0	Special aspects of education
+CUL	T	78343	2268893	TT	1129	0.01	0	Handicrafts. Arts and crafts
+CUL	M	72866	2268893	MT	3230	0.04	0	Instruction and study
+CUL	R	80051	2268893	RA	13745	0.17	0.01	Public aspects of medicine
+CUL	D	289497	2268893	DH	544	0	0	Low Countries, Benelux Countries
+CUL	P	579911	2268893	PM	728	0	0	Hyperborean, Native American, and artificial languages
+CUL	L	36462	2268893	LF	1695	0.05	0	Individual institutions - Europe
+CUL	B	210694	2268893	BQ	11876	0.06	0.01	Buddhism
+CUL	B	210694	2268893	BC	1531	0.01	0	Logic
+CUL	B	210694	2268893	BH	1883	0.01	0	Aesthetics
+CUL	S	13813	2268893	SK	517	0.04	0	Hunting
+CUL	Z	52705	2268893	ZA	161	0	0	Information resources/materials
+CUL	S	13813	2268893	SF	1302	0.09	0	Animal husbandry. Animal science
+CUL	R	80051	2268893	RC	29895	0.37	0.01	Internal medicine
+CUL	L	36462	2268893	LE	561	0.02	0	Individual institutions - America (except United States)
+CUL	P	579911	2268893	PF	1214	0	0	West Germanic languages
+CUL	G	51954	2268893	GC	1531	0.03	0	Oceanography
+CUL	G	51954	2268893	GB	2843	0.05	0	Physical geography
+CUL	J	56234	2268893	JZ	1742	0.03	0	International relations
+CUL	T	78343	2268893	TF	833	0.01	0	Railroad engineering and operation
+CUL	S	13813	2268893	S	5011	0.36	0	Agriculture (General)
+CUL	A	15949	2268893	AZ	561	0.04	0	History of scholarship and learning. The humanities
+CUL	T	78343	2268893	TH	3761	0.05	0	Building construction
+CUL	C	17443	2268893	CC	1442	0.08	0	Archaeology
+CUL	H	324644	2268893	HS	1102	0	0	Societies: secret, benevolent, etc.
+CUL	C	17443	2268893	CJ	1565	0.09	0	Numismatics
+CUL	G	51954	2268893	GA	709	0.01	0	Mathematical geography. Cartography
+CUL	R	80051	2268893	RB	2256	0.03	0	Pathology
+CUL	U	15335	2268893	UC	393	0.03	0	Military maintenance and transportation
+CUL	J	56234	2268893	JS	3858	0.07	0	Local government. Municipal government
+CUL	C	17443	2268893	CN	460	0.03	0	Inscriptions. Epigraphy
+CUL	S	13813	2268893	SH	833	0.06	0	Aquaculture. Fisheries. Angling
+CUL	K	11243	2268893	KH	32	0	0	South America
+CUL	L	36462	2268893	L	936	0.03	0	Education (General)
+CUL	L	36462	2268893	LG	1011	0.03	0	Individual institutions - Asia, Africa, Indian Ocean islands, Australia, New Zealand, Pacific islands
+CUL	L	36462	2268893	LT	21	0	0	Textbooks
+CUL	C	17443	2268893	CE	259	0.01	0	Technical Chronology. Calendar
+CUL	A	15949	2268893	AG	198	0.01	0	Dictionaries and other general reference works
+CUL	G	51954	2268893	GT	4182	0.08	0	Manners and customs (General)
+CUL	R	80051	2268893	RD	5509	0.07	0	Surgery
+CUL	R	80051	2268893	RG	2896	0.04	0	Gynecology and Obstetrics
+CUL	R	80051	2268893	RK	1370	0.02	0	Dentistry
+CUL	R	80051	2268893	RS	1223	0.02	0	Pharmacy and materia medica
+CUL	R	80051	2268893	RT	2942	0.04	0	Nursing
+CUL	A	15949	2268893	AP	798	0.05	0	Periodicals
+CUL	P	579911	2268893	PD	611	0	0	Germanic languages. Scandinavian languages
+CUL	T	78343	2268893	TX	2450	0.03	0	Home economics
+CUL	D	289497	2268893	DX	303	0	0	History of the Romani people
+CUL	C	17443	2268893	CR	729	0.04	0	Heraldry
+CUL	K	11243	2268893	KBP	945	0.08	0	Islamic law
+CUL	D	289497	2268893	DJK	512	0	0	Eastern Europe (General)
+CUL	T	78343	2268893	TG	768	0.01	0	Bridges
+CUL	D	289497	2268893	DE	464	0	0	Greco-Roman World
+CUL	D	289497	2268893	DJ	786	0	0	Netherlands (Holland)
+CUL	Q	126748	2268893	QR	3733	0.03	0	Microbiology
+CUL	J	56234	2268893	J	596	0.01	0	General legislative and executive papers
+CUL	V	3407	2268893	V	820	0.24	0	Naval science (General)
+CUL	V	3407	2268893	VK	695	0.2	0	Navigation. Merchant marine
+CUL	U	15335	2268893	UH	250	0.02	0	Other military services
+CUL	K	11243	2268893	KE	157	0.01	0	Canada
+CUL	V	3407	2268893	VB	118	0.03	0	Naval administration
+CUL	V	3407	2268893	VE	67	0.02	0	Marines
+CUL	L	36462	2268893	LJ	41	0	0	Student fraternities and societies, United States
+CUL	L	36462	2268893	LH	50	0	0	College and school magazines and papers
+CUL	A	15949	2268893	AN	40	0	0	Newspapers
+CUL	R	80051	2268893	RE	1227	0.02	0	Ophthalmology
+CUL	R	80051	2268893	RL	635	0.01	0	Dermatology
+CUL	R	80051	2268893	RF	819	0.01	0	Otorhinolaryngology
+CUL	R	80051	2268893	RZ	108	0	0	Other systems of medicine
+CUL	U	15335	2268893	UE	80	0.01	0	Cavalry. Armor
+CUL	K	11243	2268893	KJ	41	0	0	Europe
+CUL	A	15949	2268893	AY	168	0.01	0	Yearbooks. Almanacs. Directories
+CUL	V	3407	2268893	VF	33	0.01	0	Naval ordnance
+CUL	A	15949	2268893	AE	223	0.01	0	Encyclopedias
+CUL	R	80051	2268893	RX	35	0	0	Homeopathy
+CUL	K	11243	2268893	KBM	45	0	0	Jewish law
+CUL	U	15335	2268893	UD	87	0.01	0	Infantry
+CUL	K	11243	2268893	KBR	29	0	0	History of canon law
+CUL	V	3407	2268893	VG	143	0.04	0	Minor services of navies
+CUL	K	11243	2268893	KDZ	44	0	0	America. North America
+CUL	K	11243	2268893	KG	114	0.01	0	Latin America, Mexico and Central America, West Indies. Caribbean area
+CUL	A	15949	2268893	AI	119	0.01	0	Indexes
+CUL	D	289497	2268893	DAW	65	0	0	Central Europe
+CUL	K	11243	2268893	KBU	13	0	0	Law of the Roman Catholic Church. The Holy See
+CUL	V	3407	2268893	VC	37	0.01	0	Naval maintenance
+CUL	K	11243	2268893	KB	18	0	0	Religious law in general. Comparative religious law. Jurisprudence
+CUL	K	11243	2268893	KU	36	0	0	Law of Australia and New Zealand
+CUL	K	11243	2268893	KL	37	0	0	Asia and Eurasia, Africa, Pacific Area, and Antarctica
+CUL	K	11243	2268893	KBS	2	0	0	Canon law of Eastern churches
+CUL	R	80051	2268893	RV	4	0	0	Botanic, Thomsonian, and Eclectic medicine
+CUL	K	11243	2268893	KBT	2	0	0	Canon law of Eastern Rite Churches in Communion with the Holy See of Rome
+CUL	V	3407	2268893	VD	1	0	0	Naval seamen
+CUL	J	56234	2268893	JJ	1	0	0	Political institutions and public administration (North America)
+PUL	H	197369	1267893	HC	24302	0.12	0.02	Economic history and conditions
+PUL	H	197369	1267893	HD	59705	0.3	0.05	Industries. Land use. Labor
+PUL	P	305015	1267893	PS	27093	0.09	0.02	American literature
+PUL	M	21222	1267893	MT	1206	0.06	0	Instruction and study
+PUL	P	305015	1267893	PG	32712	0.11	0.03	Slavic languages and literatures. Baltic languages. Albanian language
+PUL	B	128274	1267893	BL	9925	0.08	0.01	Religions. Mythology. Rationalism
+PUL	G	38789	1267893	G	5790	0.15	0	Geography (General). Atlases. Maps
+PUL	L	32458	1267893	LA	8060	0.25	0.01	History of education
+PUL	D	186573	1267893	DS	67684	0.36	0.05	Asia
+PUL	P	305015	1267893	PN	31938	0.1	0.03	Literature (General)
+PUL	P	305015	1267893	PA	10214	0.03	0.01	Greek language and literature. Latin language and literature
+PUL	E	19502	1267893	E	19502	1	0.02	American History
+PUL	R	22209	1267893	RA	6825	0.31	0.01	Public aspects of medicine
+PUL	Q	69304	1267893	QH	6729	0.1	0.01	Natural history. Biology
+PUL	Q	69304	1267893	QP	4789	0.07	0	Physiology
+PUL	B	128274	1267893	BF	9997	0.08	0.01	Psychology
+PUL	N	21517	1267893	NC	847	0.04	0	Drawing. Design. Illustration
+PUL	P	305015	1267893	PQ	55413	0.18	0.04	French, Italian, Spanish, and Portuguese literature
+PUL	B	128274	1267893	BX	19629	0.15	0.02	Christian Denominations
+PUL	C	14898	1267893	CT	4481	0.3	0	Biography
+PUL	M	21222	1267893	M	7071	0.33	0.01	Music
+PUL	H	197369	1267893	HF	11665	0.06	0.01	Commerce
+PUL	V	3034	1267893	VK	618	0.2	0	Navigation. Merchant marine
+PUL	D	186573	1267893	DR	11947	0.06	0.01	Balkan Peninsula
+PUL	T	36929	1267893	TR	1213	0.03	0	Photography
+PUL	B	128274	1267893	B	16641	0.13	0.01	Philosophy (General)
+PUL	H	197369	1267893	HE	7008	0.04	0.01	Transportation and communications
+PUL	Q	69304	1267893	QD	9416	0.14	0.01	Chemistry
+PUL	D	186573	1267893	DC	11623	0.06	0.01	France, Andorra, Monaco
+PUL	G	38789	1267893	GV	11786	0.3	0.01	Recreation. Leisure
+PUL	Q	69304	1267893	QA	14172	0.2	0.01	Mathematics
+PUL	P	305015	1267893	P	11415	0.04	0.01	Philology. Linguistics
+PUL	J	52212	1267893	JC	7111	0.14	0.01	Political theory
+PUL	P	305015	1267893	PZ	21493	0.07	0.02	Fiction and juvenile belles lettres
+PUL	P	305015	1267893	PR	21482	0.07	0.02	English literature
+PUL	P	305015	1267893	PT	19060	0.06	0.02	German, Dutch, Flemish since 1830, Afrikaans, Scandinavian, Old Norse: Old Icelandic and Old Norwegian, Modern Icelandic, Faroese, Danish, Norwegian, and Swedish Literature
+PUL	R	22209	1267893	R	4296	0.19	0	Medicine (General)
+PUL	R	22209	1267893	RX	22	0	0	Homeopathy
+PUL	Z	20953	1267893	Z	20863	1	0.02	Books (General). Writing. Paleography. Book industries and trade. Libraries. Bibliography
+PUL	C	14898	1267893	CR	893	0.06	0	Heraldry
+PUL	F	33073	1267893	F	33073	1	0.03	Local History of the United States and British, Dutch, French, and Latin America
+PUL	D	186573	1267893	DD	8634	0.05	0.01	Germany
+PUL	D	186573	1267893	DK	19917	0.11	0.02	Russia. Soviet Union. Former Soviet Republics, Poland
+PUL	D	186573	1267893	DT	15089	0.08	0.01	Africa
+PUL	P	305015	1267893	PC	5677	0.02	0	Romanic languages
+PUL	P	305015	1267893	PE	3058	0.01	0	English language
+PUL	H	197369	1267893	HT	5744	0.03	0	Communities. Classes. Races
+PUL	B	128274	1267893	BM	15211	0.12	0.01	Judaism
+PUL	B	128274	1267893	BP	20431	0.16	0.02	Islam. Bahaism. Theosophy, etc.
+PUL	B	128274	1267893	BS	7779	0.06	0.01	The Bible
+PUL	B	128274	1267893	BV	4512	0.04	0	Practical Theology
+PUL	Q	69304	1267893	QC	10408	0.15	0.01	Physics
+PUL	Q	69304	1267893	QB	4639	0.07	0	Astronomy
+PUL	Q	69304	1267893	QE	2645	0.04	0	Geology
+PUL	Q	69304	1267893	Q	6486	0.09	0.01	Science (General)
+PUL	D	186573	1267893	DA	7209	0.04	0.01	Great Britain
+PUL	H	197369	1267893	HX	7826	0.04	0.01	Socialism. Communism. Anarchism
+PUL	B	128274	1267893	BR	6626	0.05	0.01	Christianity
+PUL	J	52212	1267893	JL	4215	0.08	0	Political institutions and public administration (Canada, Latin America, etc.)
+PUL	H	197369	1267893	HG	9571	0.05	0.01	Finance
+PUL	T	36929	1267893	TP	2344	0.06	0	Chemical technology
+PUL	P	305015	1267893	PL	32287	0.11	0.03	Languages and literatures of Eastern Asia, Africa, Oceania
+PUL	D	186573	1267893	DB	3496	0.02	0	Austria, Liechtenstein, Hungary, Czechoslovakia
+PUL	H	197369	1267893	HV	18162	0.09	0.01	Social pathology. Social and public welfare. Criminology
+PUL	U	10671	1267893	UA	4064	0.38	0	Armies: Organization, distribution, military situation
+PUL	J	52212	1267893	JS	3748	0.07	0	Local government. Municipal government
+PUL	D	186573	1267893	DG	7170	0.04	0.01	Italy, Malta
+PUL	L	32458	1267893	LD	1697	0.05	0	Individual institutions - United States
+PUL	B	128274	1267893	BD	3592	0.03	0	Speculative philosophy
+PUL	H	197369	1267893	HB	11229	0.06	0.01	Economic theory. Demography
+PUL	H	197369	1267893	HQ	17621	0.09	0.01	The family. Marriage, Women and Sexuality
+PUL	L	32458	1267893	LC	8182	0.25	0.01	Special aspects of education
+PUL	T	36929	1267893	TA	3861	0.1	0	Engineering Civil engineering (General).
+PUL	J	52212	1267893	JN	10502	0.2	0.01	Political institutions and public administration (Europe)
+PUL	S	12042	1267893	SH	2595	0.22	0	Aquaculture. Fisheries. Angling
+PUL	D	186573	1267893	DE	252	0	0	Greco-Roman World
+PUL	T	36929	1267893	TL	4883	0.13	0	Motor vehicles. Aeronautics. Astronautics
+PUL	K	25901	1267893	KF	16160	0.62	0.01	United States
+PUL	P	305015	1267893	PB	707	0	0	Modern languages. Celtic languages and literature
+PUL	J	52212	1267893	JF	2083	0.04	0	Political institutions and public administration
+PUL	B	128274	1267893	BT	4187	0.03	0	Doctrinal theology
+PUL	M	21222	1267893	ML	12945	0.61	0.01	Literature on music
+PUL	J	52212	1267893	JK	5351	0.1	0	Political institutions and public administration (United States)
+PUL	D	186573	1267893	D	19740	0.11	0.02	History (General)
+PUL	L	32458	1267893	LB	11470	0.35	0.01	Theory and practice of education
+PUL	V	3034	1267893	VA	652	0.21	0	Navies: Organization, distribution, naval situation
+PUL	T	36929	1267893	TJ	1928	0.05	0	Mechanical engineering and machinery
+PUL	C	14898	1267893	CS	3073	0.21	0	Genealogy
+PUL	D	186573	1267893	DF	4668	0.03	0	Greece
+PUL	G	38789	1267893	GR	4582	0.12	0	Folklore
+PUL	T	36929	1267893	T	2882	0.08	0	Technology (General)
+PUL	T	36929	1267893	TK	5617	0.15	0	Electrical engineering. Electronics. Nuclear engineering
+PUL	T	36929	1267893	TX	2320	0.06	0	Home economics
+PUL	R	22209	1267893	RC	6290	0.28	0	Internal medicine
+PUL	N	21517	1267893	N	4764	0.22	0	Visual arts
+PUL	H	197369	1267893	HM	9660	0.05	0.01	Sociology (General)
+PUL	U	10671	1267893	UC	373	0.03	0	Military maintenance and transportation
+PUL	S	12042	1267893	SF	1275	0.11	0	Animal husbandry. Animal science
+PUL	N	21517	1267893	NA	8202	0.38	0.01	Architecture
+PUL	C	14898	1267893	CB	2608	0.18	0	History of Civilization
+PUL	D	186573	1267893	DH	565	0	0	Low Countries, Benelux Countries
+PUL	Q	69304	1267893	QL	5579	0.08	0	Zoology
+PUL	D	186573	1267893	DJ	357	0	0	Netherlands (Holland)
+PUL	A	15948	1267893	AC	8766	0.55	0.01	Collections. Series. Collected works
+PUL	J	52212	1267893	JV	2252	0.04	0	Colonies and colonization. Emigration and immigration. International migration
+PUL	S	12042	1267893	SB	2592	0.22	0	Horticulture. Plant propagation. Plant breeding
+PUL	G	38789	1267893	GN	8350	0.22	0.01	Anthropology
+PUL	D	186573	1267893	DP	3794	0.02	0	Spain, Portugal
+PUL	N	21517	1267893	NE	389	0.02	0	Print media
+PUL	N	21517	1267893	ND	2401	0.11	0	Painting
+PUL	T	36929	1267893	TS	1767	0.05	0	Manufacturing engineering. Mass production
+PUL	T	36929	1267893	TN	2548	0.07	0	Mining engineering. Metallurgy
+PUL	G	38789	1267893	GF	1009	0.03	0	Human ecology. Anthropogeography
+PUL	S	12042	1267893	SK	1036	0.09	0	Hunting
+PUL	D	186573	1267893	DU	1996	0.01	0	Oceania (South Seas)
+PUL	P	305015	1267893	PK	3652	0.01	0	Indo-Iranian languages and literatures
+PUL	G	38789	1267893	GT	2764	0.07	0	Manners and customs (General)
+PUL	C	14898	1267893	CD	1346	0.09	0	Diplomatics. Archives. Seals
+PUL	T	36929	1267893	TH	1442	0.04	0	Building construction
+PUL	Q	69304	1267893	QK	2579	0.04	0	Botany
+PUL	B	128274	1267893	BJ	3928	0.03	0	Ethics
+PUL	G	38789	1267893	GA	560	0.01	0	Mathematical geography. Cartography
+PUL	Q	69304	1267893	QR	1547	0.02	0	Microbiology
+PUL	P	305015	1267893	PM	1714	0.01	0	Hyperborean, Native American, and artificial languages
+PUL	L	32458	1267893	LG	436	0.01	0	Individual institutions - Asia, Africa, Indian Ocean islands, Australia, New Zealand, Pacific islands
+PUL	S	12042	1267893	S	3465	0.29	0	Agriculture (General)
+PUL	J	52212	1267893	JA	2731	0.05	0	Political science (General)
+PUL	H	197369	1267893	HA	2271	0.01	0	Statistics
+PUL	G	38789	1267893	GC	816	0.02	0	Oceanography
+PUL	J	52212	1267893	JX	6416	0.12	0.01	International law, see JZ and KZ (obsolete)
+PUL	A	15948	1267893	AE	339	0.02	0	Encyclopedias
+PUL	P	305015	1267893	PJ	22831	0.07	0.02	Oriental languages and literatures
+PUL	T	36929	1267893	TG	400	0.01	0	Bridges
+PUL	A	15948	1267893	AS	3777	0.24	0	Academies and learned societies
+PUL	N	21517	1267893	NB	621	0.03	0	Sculpture
+PUL	N	21517	1267893	NK	2830	0.13	0	Decorative arts
+PUL	T	36929	1267893	TT	499	0.01	0	Handicrafts. Arts and crafts
+PUL	U	10671	1267893	UG	1563	0.15	0	Military engineering. Air forces
+PUL	B	128274	1267893	BC	965	0.01	0	Logic
+PUL	R	22209	1267893	RD	514	0.02	0	Surgery
+PUL	B	128274	1267893	BQ	3810	0.03	0	Buddhism
+PUL	H	197369	1267893	HN	5677	0.03	0	Social history and conditions. Social problems. Social reform
+PUL	U	10671	1267893	UF	390	0.04	0	Artillery
+PUL	H	197369	1267893	HJ	5886	0.03	0	Public finance
+PUL	V	3034	1267893	V	705	0.23	0	Naval science (General)
+PUL	V	3034	1267893	VC	46	0.02	0	Naval maintenance
+PUL	V	3034	1267893	VE	79	0.03	0	Marines
+PUL	G	38789	1267893	GE	1330	0.03	0	Environmental Sciences
+PUL	P	305015	1267893	PF	2455	0.01	0	West Germanic languages
+PUL	U	10671	1267893	UB	1344	0.13	0	Military administration
+PUL	P	305015	1267893	PD	643	0	0	Germanic languages. Scandinavian languages
+PUL	A	15948	1267893	AP	1375	0.09	0	Periodicals
+PUL	D	186573	1267893	DQ	747	0	0	Switzerland
+PUL	A	15948	1267893	AG	227	0.01	0	Dictionaries and other general reference works
+PUL	P	305015	1267893	PH	1171	0	0	Uralic languages. Basque language
+PUL	U	10671	1267893	U	2564	0.24	0	Military science (General)
+PUL	L	32458	1267893	L	630	0.02	0	Education (General)
+PUL	L	32458	1267893	LF	1530	0.05	0	Individual institutions - Europe
+PUL	T	36929	1267893	TF	645	0.02	0	Railroad engineering and operation
+PUL	K	25901	1267893	KD	1335	0.05	0	United Kingdom and Ireland
+PUL	K	25901	1267893	K	3539	0.14	0	Law in general. Comparative and uniform law. Jurisprudence
+PUL	D	186573	1267893	DL	1007	0.01	0	Northern Europe. Scandinavia
+PUL	J	52212	1267893	JQ	5873	0.11	0	Political institutions and public administration (Asia, Africa, Australia, Pacific Area, etc.)
+PUL	J	52212	1267893	JZ	1421	0.03	0	International relations
+PUL	H	197369	1267893	HS	1042	0.01	0	Societies: secret, benevolent, etc.
+PUL	V	3034	1267893	VM	668	0.22	0	Naval architecture. Shipbuilding. Marine engineering
+PUL	R	22209	1267893	RS	742	0.03	0	Pharmacy and materia medica
+PUL	G	38789	1267893	GB	1802	0.05	0	Physical geography
+PUL	U	10671	1267893	UD	101	0.01	0	Infantry
+PUL	T	36929	1267893	TD	2985	0.08	0	Environmental technology. Sanitary engineering
+PUL	B	128274	1267893	BH	1041	0.01	0	Aesthetics
+PUL	V	3034	1267893	VG	130	0.04	0	Minor services of navies
+PUL	R	22209	1267893	RJ	917	0.04	0	Pediatrics
+PUL	A	15948	1267893	AM	768	0.05	0	Museums. Collectors and collecting
+PUL	R	22209	1267893	RB	356	0.02	0	Pathology
+PUL	S	12042	1267893	SD	1079	0.09	0	Forestry. Arboriculture. Silviculture
+PUL	R	22209	1267893	RM	887	0.04	0	Therapeutics. Pharmacology
+PUL	N	21517	1267893	NX	1463	0.07	0	Arts in general
+PUL	C	14898	1267893	CJ	911	0.06	0	Numismatics
+PUL	Q	69304	1267893	QM	315	0	0	Human anatomy
+PUL	J	52212	1267893	J	508	0.01	0	General legislative and executive papers
+PUL	K	25901	1267893	KG	213	0.01	0	Latin America, Mexico and Central America, West Indies. Caribbean area
+PUL	R	22209	1267893	RZ	60	0	0	Other systems of medicine
+PUL	A	15948	1267893	AZ	442	0.03	0	History of scholarship and learning. The humanities
+PUL	R	22209	1267893	RG	692	0.03	0	Gynecology and Obstetrics
+PUL	K	25901	1267893	KDZ	99	0	0	America. North America
+PUL	D	186573	1267893	DJK	444	0	0	Eastern Europe (General)
+PUL	K	25901	1267893	KZ	568	0.02	0	Law of nations
+PUL	K	25901	1267893	KBP	2364	0.09	0	Islamic law
+PUL	R	22209	1267893	RF	65	0	0	Otorhinolaryngology
+PUL	T	36929	1267893	TE	373	0.01	0	Highway engineering. Roads and pavements
+PUL	Z	20953	1267893	ZA	90	0	0	Information resources/materials
+PUL	C	14898	1267893	CC	1092	0.07	0	Archaeology
+PUL	C	14898	1267893	CE	211	0.01	0	Technical Chronology. Calendar
+PUL	T	36929	1267893	TC	1222	0.03	0	Hydraulic engineering. Ocean engineering
+PUL	K	25901	1267893	KB	22	0	0	Religious law in general. Comparative religious law. Jurisprudence
+PUL	K	25901	1267893	KL	47	0	0	Asia and Eurasia, Africa, Pacific Area, and Antarctica
+PUL	K	25901	1267893	KK	887	0.03	0	Europe
+PUL	K	25901	1267893	KJ	53	0	0	Europe
+PUL	K	25901	1267893	KE	237	0.01	0	Canada
+PUL	U	10671	1267893	UH	219	0.02	0	Other military services
+PUL	A	15948	1267893	AY	141	0.01	0	Yearbooks. Almanacs. Directories
+PUL	R	22209	1267893	RT	208	0.01	0	Nursing
+PUL	U	10671	1267893	UE	53	0	0	Cavalry. Armor
+PUL	L	32458	1267893	LE	349	0.01	0	Individual institutions - America (except United States)
+PUL	C	14898	1267893	CN	283	0.02	0	Inscriptions. Epigraphy
+PUL	R	22209	1267893	RE	154	0.01	0	Ophthalmology
+PUL	K	25901	1267893	KBR	44	0	0	History of canon law
+PUL	L	32458	1267893	LH	34	0	0	College and school magazines and papers
+PUL	A	15948	1267893	AI	105	0.01	0	Indexes
+PUL	K	25901	1267893	KBM	182	0.01	0	Jewish law
+PUL	D	186573	1267893	DX	211	0	0	History of the Romani people
+PUL	R	22209	1267893	RK	115	0.01	0	Dentistry
+PUL	V	3034	1267893	VB	109	0.04	0	Naval administration
+PUL	L	32458	1267893	LT	19	0	0	Textbooks
+PUL	K	25901	1267893	KH	79	0	0	South America
+PUL	V	3034	1267893	VF	25	0.01	0	Naval ordnance
+PUL	K	25901	1267893	KBU	14	0	0	Law of the Roman Catholic Church. The Holy See
+PUL	L	32458	1267893	LJ	51	0	0	Student fraternities and societies, United States
+PUL	D	186573	1267893	DAW	23	0	0	Central Europe
+PUL	K	25901	1267893	KU	54	0	0	Law of Australia and New Zealand
+PUL	R	22209	1267893	RL	63	0	0	Dermatology
+PUL	R	22209	1267893	RV	3	0	0	Botanic, Thomsonian, and Eclectic medicine
+PUL	A	15948	1267893	AN	8	0	0	Newspapers
+PUL	J	52212	1267893	JJ	1	0	0	Political institutions and public administration (North America)
+PUL	K	25901	1267893	KBS	4	0	0	Canon law of Eastern churches
+PUL	V	3034	1267893	VD	2	0	0	Naval seamen
+NYPL	D	81530	731528	D	10390	0.13	0.01	History (General)
+NYPL	H	158301	731528	HM	3725	0.02	0.01	Sociology (General)
+NYPL	H	158301	731528	HF	16499	0.1	0.02	Commerce
+NYPL	H	158301	731528	HD	44705	0.28	0.06	Industries. Land use. Labor
+NYPL	J	24330	731528	JX	3919	0.16	0.01	International law, see JZ and KZ (obsolete)
+NYPL	Q	60835	731528	QA	20897	0.34	0.03	Mathematics
+NYPL	T	57634	731528	TK	10108	0.18	0.01	Electrical engineering. Electronics. Nuclear engineering
+NYPL	Q	60835	731528	QH	2774	0.05	0	Natural history. Biology
+NYPL	Q	60835	731528	QD	7301	0.12	0.01	Chemistry
+NYPL	T	57634	731528	TP	5153	0.09	0.01	Chemical technology
+NYPL	Q	60835	731528	QB	3653	0.06	0	Astronomy
+NYPL	Q	60835	731528	QC	11447	0.19	0.02	Physics
+NYPL	T	57634	731528	TA	7509	0.13	0.01	Engineering Civil engineering (General).
+NYPL	T	57634	731528	TN	3721	0.06	0.01	Mining engineering. Metallurgy
+NYPL	T	57634	731528	TC	1499	0.03	0	Hydraulic engineering. Ocean engineering
+NYPL	T	57634	731528	TJ	4655	0.08	0.01	Mechanical engineering and machinery
+NYPL	B	52105	731528	BF	3738	0.07	0.01	Psychology
+NYPL	P	165365	731528	PL	24356	0.15	0.03	Languages and literatures of Eastern Asia, Africa, Oceania
+NYPL	Q	60835	731528	QE	4909	0.08	0.01	Geology
+NYPL	D	81530	731528	DK	9806	0.12	0.01	Russia. Soviet Union. Former Soviet Republics, Poland
+NYPL	Z	16445	731528	Z	16367	1	0.02	Books (General). Writing. Paleography. Book industries and trade. Libraries. Bibliography
+NYPL	T	57634	731528	T	3891	0.07	0.01	Technology (General)
+NYPL	H	158301	731528	HT	3695	0.02	0.01	Communities. Classes. Races
+NYPL	D	81530	731528	DR	3799	0.05	0.01	Balkan Peninsula
+NYPL	S	5533	731528	S	1720	0.31	0	Agriculture (General)
+NYPL	T	57634	731528	TH	2173	0.04	0	Building construction
+NYPL	B	52105	731528	BX	9724	0.19	0.01	Christian Denominations
+NYPL	H	158301	731528	HC	22680	0.14	0.03	Economic history and conditions
+NYPL	G	17868	731528	G	3446	0.19	0	Geography (General). Atlases. Maps
+NYPL	B	52105	731528	BS	1980	0.04	0	The Bible
+NYPL	H	158301	731528	HB	9312	0.06	0.01	Economic theory. Demography
+NYPL	B	52105	731528	BR	3155	0.06	0	Christianity
+NYPL	D	81530	731528	DS	22965	0.28	0.03	Asia
+NYPL	D	81530	731528	DG	9105	0.11	0.01	Italy, Malta
+NYPL	G	17868	731528	GR	2167	0.12	0	Folklore
+NYPL	Q	60835	731528	Q	5145	0.08	0.01	Science (General)
+NYPL	G	17868	731528	GN	3205	0.18	0	Anthropology
+NYPL	T	57634	731528	TL	5668	0.1	0.01	Motor vehicles. Aeronautics. Astronautics
+NYPL	J	24330	731528	JQ	2020	0.08	0	Political institutions and public administration (Asia, Africa, Australia, Pacific Area, etc.)
+NYPL	H	158301	731528	HJ	5231	0.03	0.01	Public finance
+NYPL	B	52105	731528	BD	1513	0.03	0	Speculative philosophy
+NYPL	K	9366	731528	KF	5242	0.56	0.01	United States
+NYPL	R	8532	731528	RA	3334	0.39	0	Public aspects of medicine
+NYPL	L	9263	731528	LB	2987	0.32	0	Theory and practice of education
+NYPL	J	24330	731528	JN	5024	0.21	0.01	Political institutions and public administration (Europe)
+NYPL	T	57634	731528	TS	3895	0.07	0.01	Manufacturing engineering. Mass production
+NYPL	R	8532	731528	R	1837	0.22	0	Medicine (General)
+NYPL	K	9366	731528	K	2235	0.24	0	Law in general. Comparative and uniform law. Jurisprudence
+NYPL	R	8532	731528	RC	1846	0.22	0	Internal medicine
+NYPL	P	165365	731528	PN	11296	0.07	0.02	Literature (General)
+NYPL	B	52105	731528	BL	6802	0.13	0.01	Religions. Mythology. Rationalism
+NYPL	H	158301	731528	HE	5648	0.04	0.01	Transportation and communications
+NYPL	G	17868	731528	GV	4331	0.24	0.01	Recreation. Leisure
+NYPL	P	165365	731528	PR	6292	0.04	0.01	English literature
+NYPL	T	57634	731528	TD	2802	0.05	0	Environmental technology. Sanitary engineering
+NYPL	P	165365	731528	PJ	5402	0.03	0.01	Oriental languages and literatures
+NYPL	V	2030	731528	V	335	0.17	0	Naval science (General)
+NYPL	F	13614	731528	F	13614	1	0.02	Local History of the United States and British, Dutch, French, and Latin America
+NYPL	P	165365	731528	P	3650	0.02	0	Philology. Linguistics
+NYPL	H	158301	731528	HG	13624	0.09	0.02	Finance
+NYPL	Q	60835	731528	QR	274	0	0	Microbiology
+NYPL	B	52105	731528	BT	1761	0.03	0	Doctrinal theology
+NYPL	N	20409	731528	ND	4266	0.21	0.01	Painting
+NYPL	C	9933	731528	CR	803	0.08	0	Heraldry
+NYPL	H	158301	731528	HX	4088	0.03	0.01	Socialism. Communism. Anarchism
+NYPL	B	52105	731528	BP	4728	0.09	0.01	Islam. Bahaism. Theosophy, etc.
+NYPL	P	165365	731528	PT	8177	0.05	0.01	German, Dutch, Flemish since 1830, Afrikaans, Scandinavian, Old Norse: Old Icelandic and Old Norwegian, Modern Icelandic, Faroese, Danish, Norwegian, and Swedish Literature
+NYPL	N	20409	731528	N	6630	0.32	0.01	Visual arts
+NYPL	P	165365	731528	PG	14346	0.09	0.02	Slavic languages and literatures. Baltic languages. Albanian language
+NYPL	A	4390	731528	AP	1050	0.24	0	Periodicals
+NYPL	C	9933	731528	CT	1738	0.17	0	Biography
+NYPL	Q	60835	731528	QL	1895	0.03	0	Zoology
+NYPL	P	165365	731528	PK	11618	0.07	0.02	Indo-Iranian languages and literatures
+NYPL	E	6091	731528	E	6091	1	0.01	American History
+NYPL	A	4390	731528	AS	1455	0.33	0	Academies and learned societies
+NYPL	P	165365	731528	PQ	38263	0.23	0.05	French, Italian, Spanish, and Portuguese literature
+NYPL	Q	60835	731528	QK	1070	0.02	0	Botany
+NYPL	B	52105	731528	BV	2239	0.04	0	Practical Theology
+NYPL	Q	60835	731528	QP	1399	0.02	0	Physiology
+NYPL	S	5533	731528	SB	1326	0.24	0	Horticulture. Plant propagation. Plant breeding
+NYPL	Q	60835	731528	QM	71	0	0	Human anatomy
+NYPL	J	24330	731528	JC	3421	0.14	0	Political theory
+NYPL	J	24330	731528	JA	1312	0.05	0	Political science (General)
+NYPL	V	2030	731528	VM	576	0.28	0	Naval architecture. Shipbuilding. Marine engineering
+NYPL	R	8532	731528	RS	344	0.04	0	Pharmacy and materia medica
+NYPL	N	20409	731528	NX	1059	0.05	0	Arts in general
+NYPL	P	165365	731528	PA	3273	0.02	0	Greek language and literature. Latin language and literature
+NYPL	D	81530	731528	DE	214	0	0	Greco-Roman World
+NYPL	N	20409	731528	NC	967	0.05	0	Drawing. Design. Illustration
+NYPL	H	158301	731528	HA	2815	0.02	0	Statistics
+NYPL	M	2190	731528	ML	1950	0.89	0	Literature on music
+NYPL	P	165365	731528	PC	4324	0.03	0.01	Romanic languages
+NYPL	B	52105	731528	B	8769	0.17	0.01	Philosophy (General)
+NYPL	H	158301	731528	HV	10991	0.07	0.02	Social pathology. Social and public welfare. Criminology
+NYPL	Z	16445	731528	ZA	78	0	0	Information resources/materials
+NYPL	N	20409	731528	NA	3858	0.19	0.01	Architecture
+NYPL	D	81530	731528	DP	4246	0.05	0.01	Spain, Portugal
+NYPL	K	9366	731528	KZ	158	0.02	0	Law of nations
+NYPL	J	24330	731528	JZ	550	0.02	0	International relations
+NYPL	P	165365	731528	PZ	18167	0.11	0.02	Fiction and juvenile belles lettres
+NYPL	P	165365	731528	PD	350	0	0	Germanic languages. Scandinavian languages
+NYPL	P	165365	731528	PE	1229	0.01	0	English language
+NYPL	D	81530	731528	DF	697	0.01	0	Greece
+NYPL	H	158301	731528	HN	5822	0.04	0.01	Social history and conditions. Social problems. Social reform
+NYPL	D	81530	731528	DT	4136	0.05	0.01	Africa
+NYPL	G	17868	731528	GT	1632	0.09	0	Manners and customs (General)
+NYPL	L	9263	731528	LE	193	0.02	0	Individual institutions - America (except United States)
+NYPL	D	81530	731528	DD	4225	0.05	0.01	Germany
+NYPL	L	9263	731528	LA	2133	0.23	0	History of education
+NYPL	B	52105	731528	BJ	1350	0.03	0	Ethics
+NYPL	P	165365	731528	PF	880	0.01	0	West Germanic languages
+NYPL	J	24330	731528	JF	956	0.04	0	Political institutions and public administration
+NYPL	K	9366	731528	KK	770	0.08	0	Europe
+NYPL	P	165365	731528	PS	11979	0.07	0.02	American literature
+NYPL	B	52105	731528	BQ	4195	0.08	0.01	Buddhism
+NYPL	H	158301	731528	HQ	8860	0.06	0.01	The family. Marriage, Women and Sexuality
+NYPL	U	5764	731528	U	1089	0.19	0	Military science (General)
+NYPL	L	9263	731528	LC	1879	0.2	0	Special aspects of education
+NYPL	K	9366	731528	KD	429	0.05	0	United Kingdom and Ireland
+NYPL	G	17868	731528	GF	360	0.02	0	Human ecology. Anthropogeography
+NYPL	T	57634	731528	TX	2569	0.04	0	Home economics
+NYPL	J	24330	731528	JL	1221	0.05	0	Political institutions and public administration (Canada, Latin America, etc.)
+NYPL	D	81530	731528	DA	2207	0.03	0	Great Britain
+NYPL	R	8532	731528	RJ	244	0.03	0	Pediatrics
+NYPL	K	9366	731528	KE	180	0.02	0	Canada
+NYPL	U	5764	731528	UA	1971	0.34	0	Armies: Organization, distribution, military situation
+NYPL	C	9933	731528	CB	736	0.07	0	History of Civilization
+NYPL	J	24330	731528	JV	1529	0.06	0	Colonies and colonization. Emigration and immigration. International migration
+NYPL	N	20409	731528	NK	2266	0.11	0	Decorative arts
+NYPL	L	9263	731528	L	456	0.05	0	Education (General)
+NYPL	D	81530	731528	DC	3986	0.05	0.01	France, Andorra, Monaco
+NYPL	B	52105	731528	BC	318	0.01	0	Logic
+NYPL	P	165365	731528	PB	535	0	0	Modern languages. Celtic languages and literature
+NYPL	G	17868	731528	GA	327	0.02	0	Mathematical geography. Cartography
+NYPL	J	24330	731528	JS	1706	0.07	0	Local government. Municipal government
+NYPL	A	4390	731528	AE	205	0.05	0	Encyclopedias
+NYPL	N	20409	731528	NE	311	0.02	0	Print media
+NYPL	A	4390	731528	AC	729	0.17	0	Collections. Series. Collected works
+NYPL	J	24330	731528	JK	2123	0.09	0	Political institutions and public administration (United States)
+NYPL	G	17868	731528	GE	467	0.03	0	Environmental Sciences
+NYPL	T	57634	731528	TT	1062	0.02	0	Handicrafts. Arts and crafts
+NYPL	T	57634	731528	TR	1404	0.02	0	Photography
+NYPL	H	158301	731528	HS	606	0	0	Societies: secret, benevolent, etc.
+NYPL	G	17868	731528	GB	1390	0.08	0	Physical geography
+NYPL	V	2030	731528	VK	554	0.27	0	Navigation. Merchant marine
+NYPL	C	9933	731528	CC	333	0.03	0	Archaeology
+NYPL	G	17868	731528	GC	543	0.03	0	Oceanography
+NYPL	S	5533	731528	SD	533	0.1	0	Forestry. Arboriculture. Silviculture
+NYPL	C	9933	731528	CS	4155	0.42	0.01	Genealogy
+NYPL	U	5764	731528	UG	1217	0.21	0	Military engineering. Air forces
+NYPL	U	5764	731528	UF	221	0.04	0	Artillery
+NYPL	S	5533	731528	SH	651	0.12	0	Aquaculture. Fisheries. Angling
+NYPL	J	24330	731528	J	548	0.02	0	General legislative and executive papers
+NYPL	L	9263	731528	LF	591	0.06	0	Individual institutions - Europe
+NYPL	T	57634	731528	TG	523	0.01	0	Bridges
+NYPL	P	165365	731528	PH	923	0.01	0	Uralic languages. Basque language
+NYPL	P	165365	731528	PM	305	0	0	Hyperborean, Native American, and artificial languages
+NYPL	B	52105	731528	BH	450	0.01	0	Aesthetics
+NYPL	N	20409	731528	NB	1052	0.05	0	Sculpture
+NYPL	T	57634	731528	TE	397	0.01	0	Highway engineering. Roads and pavements
+NYPL	V	2030	731528	VG	90	0.04	0	Minor services of navies
+NYPL	K	9366	731528	KDZ	48	0.01	0	America. North America
+NYPL	K	9366	731528	KBP	124	0.01	0	Islamic law
+NYPL	M	2190	731528	M	129	0.06	0	Music
+NYPL	C	9933	731528	CD	1100	0.11	0	Diplomatics. Archives. Seals
+NYPL	U	5764	731528	UB	846	0.15	0	Military administration
+NYPL	T	57634	731528	TF	605	0.01	0	Railroad engineering and operation
+NYPL	A	4390	731528	AM	319	0.07	0	Museums. Collectors and collecting
+NYPL	D	81530	731528	DL	1099	0.01	0	Northern Europe. Scandinavia
+NYPL	D	81530	731528	DH	406	0	0	Low Countries, Benelux Countries
+NYPL	S	5533	731528	SF	811	0.15	0	Animal husbandry. Animal science
+NYPL	C	9933	731528	CN	286	0.03	0	Inscriptions. Epigraphy
+NYPL	D	81530	731528	DU	529	0.01	0	Oceania (South Seas)
+NYPL	D	81530	731528	DB	2350	0.03	0	Austria, Liechtenstein, Hungary, Czechoslovakia
+NYPL	U	5764	731528	UH	92	0.02	0	Other military services
+NYPL	C	9933	731528	CJ	677	0.07	0	Numismatics
+NYPL	M	2190	731528	MT	111	0.05	0	Instruction and study
+NYPL	R	8532	731528	RL	19	0	0	Dermatology
+NYPL	B	52105	731528	BM	1383	0.03	0	Judaism
+NYPL	L	9263	731528	LD	721	0.08	0	Individual institutions - United States
+NYPL	R	8532	731528	RM	301	0.04	0	Therapeutics. Pharmacology
+NYPL	S	5533	731528	SK	492	0.09	0	Hunting
+NYPL	R	8532	731528	RD	108	0.01	0	Surgery
+NYPL	D	81530	731528	DX	139	0	0	History of the Romani people
+NYPL	U	5764	731528	UD	52	0.01	0	Infantry
+NYPL	D	81530	731528	DQ	506	0.01	0	Switzerland
+NYPL	R	8532	731528	RE	42	0	0	Ophthalmology
+NYPL	D	81530	731528	DJK	223	0	0	Eastern Europe (General)
+NYPL	R	8532	731528	RG	179	0.02	0	Gynecology and Obstetrics
+NYPL	C	9933	731528	CE	105	0.01	0	Technical Chronology. Calendar
+NYPL	K	9366	731528	KB	3	0	0	Religious law in general. Comparative religious law. Jurisprudence
+NYPL	L	9263	731528	LG	136	0.01	0	Individual institutions - Asia, Africa, Indian Ocean islands, Australia, New Zealand, Pacific islands
+NYPL	A	4390	731528	AY	194	0.04	0	Yearbooks. Almanacs. Directories
+NYPL	L	9263	731528	LH	83	0.01	0	College and school magazines and papers
+NYPL	D	81530	731528	DJ	480	0.01	0	Netherlands (Holland)
+NYPL	D	81530	731528	DAW	22	0	0	Central Europe
+NYPL	V	2030	731528	VB	54	0.03	0	Naval administration
+NYPL	R	8532	731528	RB	72	0.01	0	Pathology
+NYPL	U	5764	731528	UC	258	0.04	0	Military maintenance and transportation
+NYPL	A	4390	731528	AG	155	0.04	0	Dictionaries and other general reference works
+NYPL	V	2030	731528	VA	345	0.17	0	Navies: Organization, distribution, naval situation
+NYPL	A	4390	731528	AZ	164	0.04	0	History of scholarship and learning. The humanities
+NYPL	R	8532	731528	RT	91	0.01	0	Nursing
+NYPL	A	4390	731528	AI	119	0.03	0	Indexes
+NYPL	R	8532	731528	RZ	58	0.01	0	Other systems of medicine
+NYPL	K	9366	731528	KH	33	0	0	South America
+NYPL	K	9366	731528	KG	64	0.01	0	Latin America, Mexico and Central America, West Indies. Caribbean area
+NYPL	K	9366	731528	KBU	10	0	0	Law of the Roman Catholic Church. The Holy See
+NYPL	L	9263	731528	LJ	80	0.01	0	Student fraternities and societies, United States
+NYPL	U	5764	731528	UE	18	0	0	Cavalry. Armor
+NYPL	V	2030	731528	VE	28	0.01	0	Marines
+NYPL	K	9366	731528	KBM	15	0	0	Jewish law
+NYPL	K	9366	731528	KJ	11	0	0	Europe
+NYPL	K	9366	731528	KL	14	0	0	Asia and Eurasia, Africa, Pacific Area, and Antarctica
+NYPL	R	8532	731528	RF	19	0	0	Otorhinolaryngology
+NYPL	K	9366	731528	KU	16	0	0	Law of Australia and New Zealand
+NYPL	R	8532	731528	RK	32	0	0	Dentistry
+NYPL	V	2030	731528	VC	35	0.02	0	Naval maintenance
+NYPL	K	9366	731528	KBR	12	0	0	History of canon law
+NYPL	L	9263	731528	LT	4	0	0	Textbooks
+NYPL	V	2030	731528	VF	13	0.01	0	Naval ordnance
+NYPL	K	9366	731528	KBS	1	0	0	Canon law of Eastern churches
+NYPL	R	8532	731528	RV	1	0	0	Botanic, Thomsonian, and Eclectic medicine
+NYPL	K	9366	731528	KBT	1	0	0	Canon law of Eastern Rite Churches in Communion with the Holy See of Rome
+NYPL	R	8532	731528	RX	5	0	0	Homeopathy
+NYPL	J	24330	731528	JJ	1	0	0	Political institutions and public administration (North America)
+HUL	P	453051	1653063	PJ	5997	0.01	0	Oriental languages and literatures
+HUL	H	220318	1653063	HD	48699	0.22	0.03	Industries. Land use. Labor
+HUL	D	247607	1653063	DS	67131	0.27	0.04	Asia
+HUL	B	131376	1653063	BF	13718	0.1	0.01	Psychology
+HUL	B	131376	1653063	BM	4457	0.03	0	Judaism
+HUL	Q	43216	1653063	QH	6256	0.14	0	Natural history. Biology
+HUL	H	220318	1653063	HB	12488	0.06	0.01	Economic theory. Demography
+HUL	R	21379	1653063	RA	6145	0.29	0	Public aspects of medicine
+HUL	L	29549	1653063	LB	8613	0.29	0.01	Theory and practice of education
+HUL	N	48483	1653063	NX	3018	0.06	0	Arts in general
+HUL	R	21379	1653063	RC	6187	0.29	0	Internal medicine
+HUL	B	131376	1653063	B	23774	0.18	0.01	Philosophy (General)
+HUL	P	453051	1653063	PG	24074	0.05	0.01	Slavic languages and literatures. Baltic languages. Albanian language
+HUL	B	131376	1653063	BX	26172	0.2	0.02	Christian Denominations
+HUL	P	453051	1653063	PD	1280	0	0	Germanic languages. Scandinavian languages
+HUL	H	220318	1653063	HV	29194	0.13	0.02	Social pathology. Social and public welfare. Criminology
+HUL	F	57177	1653063	F	57177	1	0.03	Local History of the United States and British, Dutch, French, and Latin America
+HUL	H	220318	1653063	HF	10584	0.05	0.01	Commerce
+HUL	M	23085	1653063	ML	20834	0.9	0.01	Literature on music
+HUL	D	247607	1653063	DL	8372	0.03	0.01	Northern Europe. Scandinavia
+HUL	P	453051	1653063	PQ	108086	0.24	0.07	French, Italian, Spanish, and Portuguese literature
+HUL	P	453051	1653063	PT	57446	0.13	0.03	German, Dutch, Flemish since 1830, Afrikaans, Scandinavian, Old Norse: Old Icelandic and Old Norwegian, Modern Icelandic, Faroese, Danish, Norwegian, and Swedish Literature
+HUL	L	29549	1653063	LF	2426	0.08	0	Individual institutions - Europe
+HUL	H	220318	1653063	HM	10121	0.05	0.01	Sociology (General)
+HUL	P	453051	1653063	PR	42858	0.09	0.03	English literature
+HUL	J	58721	1653063	JC	9874	0.17	0.01	Political theory
+HUL	L	29549	1653063	LA	7656	0.26	0	History of education
+HUL	E	19259	1653063	E	19259	1	0.01	American History
+HUL	R	21379	1653063	R	4791	0.22	0	Medicine (General)
+HUL	D	247607	1653063	DG	14705	0.06	0.01	Italy, Malta
+HUL	D	247607	1653063	DP	11487	0.05	0.01	Spain, Portugal
+HUL	D	247607	1653063	DT	14238	0.06	0.01	Africa
+HUL	C	17042	1653063	CR	964	0.06	0	Heraldry
+HUL	P	453051	1653063	P	14421	0.03	0.01	Philology. Linguistics
+HUL	P	453051	1653063	PF	4502	0.01	0	West Germanic languages
+HUL	Q	43216	1653063	QP	1529	0.04	0	Physiology
+HUL	K	146458	1653063	KF	36589	0.25	0.02	United States
+HUL	D	247607	1653063	DK	14313	0.06	0.01	Russia. Soviet Union. Former Soviet Republics, Poland
+HUL	Z	16757	1653063	Z	16377	0.98	0.01	Books (General). Writing. Paleography. Book industries and trade. Libraries. Bibliography
+HUL	H	220318	1653063	HN	13315	0.06	0.01	Social history and conditions. Social problems. Social reform
+HUL	A	16181	1653063	AP	165	0.01	0	Periodicals
+HUL	D	247607	1653063	DD	26254	0.11	0.02	Germany
+HUL	P	453051	1653063	PA	11237	0.02	0.01	Greek language and literature. Latin language and literature
+HUL	J	58721	1653063	JN	12217	0.21	0.01	Political institutions and public administration (Europe)
+HUL	B	131376	1653063	BV	6706	0.05	0	Practical Theology
+HUL	D	247607	1653063	DA	12915	0.05	0.01	Great Britain
+HUL	C	17042	1653063	CC	1117	0.07	0	Archaeology
+HUL	J	58721	1653063	JQ	7674	0.13	0	Political institutions and public administration (Asia, Africa, Australia, Pacific Area, etc.)
+HUL	D	247607	1653063	DC	19085	0.08	0.01	France, Andorra, Monaco
+HUL	P	453051	1653063	PE	2417	0.01	0	English language
+HUL	D	247607	1653063	DF	4676	0.02	0	Greece
+HUL	A	16181	1653063	AS	1847	0.11	0	Academies and learned societies
+HUL	D	247607	1653063	D	26538	0.11	0.02	History (General)
+HUL	P	453051	1653063	PL	49998	0.11	0.03	Languages and literatures of Eastern Asia, Africa, Oceania
+HUL	U	12403	1653063	UA	4828	0.39	0	Armies: Organization, distribution, military situation
+HUL	N	48483	1653063	N	17807	0.37	0.01	Visual arts
+HUL	B	131376	1653063	BR	8269	0.06	0.01	Christianity
+HUL	C	17042	1653063	CD	1872	0.11	0	Diplomatics. Archives. Seals
+HUL	B	131376	1653063	BC	786	0.01	0	Logic
+HUL	J	58721	1653063	JV	3291	0.06	0	Colonies and colonization. Emigration and immigration. International migration
+HUL	K	146458	1653063	K	22328	0.15	0.01	Law in general. Comparative and uniform law. Jurisprudence
+HUL	P	453051	1653063	PC	11999	0.03	0.01	Romanic languages
+HUL	B	131376	1653063	BT	6716	0.05	0	Doctrinal theology
+HUL	H	220318	1653063	HX	6895	0.03	0	Socialism. Communism. Anarchism
+HUL	B	131376	1653063	BS	6912	0.05	0	The Bible
+HUL	D	247607	1653063	DB	6811	0.03	0	Austria, Liechtenstein, Hungary, Czechoslovakia
+HUL	H	220318	1653063	HC	32112	0.15	0.02	Economic history and conditions
+HUL	P	453051	1653063	PN	58543	0.13	0.04	Literature (General)
+HUL	D	247607	1653063	DU	5223	0.02	0	Oceania (South Seas)
+HUL	T	32130	1653063	TL	2689	0.08	0	Motor vehicles. Aeronautics. Astronautics
+HUL	D	247607	1653063	DQ	3029	0.01	0	Switzerland
+HUL	T	32130	1653063	TH	1438	0.04	0	Building construction
+HUL	J	58721	1653063	JL	4211	0.07	0	Political institutions and public administration (Canada, Latin America, etc.)
+HUL	H	220318	1653063	HE	7496	0.03	0	Transportation and communications
+HUL	G	43854	1653063	GF	1276	0.03	0	Human ecology. Anthropogeography
+HUL	J	58721	1653063	J	398	0.01	0	General legislative and executive papers
+HUL	R	21379	1653063	RD	794	0.04	0	Surgery
+HUL	G	43854	1653063	GN	7196	0.16	0	Anthropology
+HUL	S	11303	1653063	SD	1092	0.1	0	Forestry. Arboriculture. Silviculture
+HUL	H	220318	1653063	HQ	25003	0.11	0.02	The family. Marriage, Women and Sexuality
+HUL	H	220318	1653063	HJ	4296	0.02	0	Public finance
+HUL	J	58721	1653063	JX	4637	0.08	0	International law, see JZ and KZ (obsolete)
+HUL	N	48483	1653063	NE	1035	0.02	0	Print media
+HUL	C	17042	1653063	CT	4807	0.28	0	Biography
+HUL	T	32130	1653063	TP	1410	0.04	0	Chemical technology
+HUL	Q	43216	1653063	QK	1558	0.04	0	Botany
+HUL	J	58721	1653063	JS	3622	0.06	0	Local government. Municipal government
+HUL	T	32130	1653063	TR	5241	0.16	0	Photography
+HUL	G	43854	1653063	GT	4446	0.1	0	Manners and customs (General)
+HUL	Q	43216	1653063	QC	6858	0.16	0	Physics
+HUL	P	453051	1653063	PM	1537	0	0	Hyperborean, Native American, and artificial languages
+HUL	U	12403	1653063	UD	154	0.01	0	Infantry
+HUL	L	29549	1653063	LC	8250	0.28	0	Special aspects of education
+HUL	Q	43216	1653063	QA	7934	0.18	0	Mathematics
+HUL	J	58721	1653063	JA	2969	0.05	0	Political science (General)
+HUL	T	32130	1653063	T	3044	0.09	0	Technology (General)
+HUL	G	43854	1653063	GR	5296	0.12	0	Folklore
+HUL	P	453051	1653063	PH	5766	0.01	0	Uralic languages. Basque language
+HUL	H	220318	1653063	HG	9115	0.04	0.01	Finance
+HUL	H	220318	1653063	HT	8163	0.04	0	Communities. Classes. Races
+HUL	T	32130	1653063	TF	895	0.03	0	Railroad engineering and operation
+HUL	K	146458	1653063	KE	25586	0.17	0.02	Canada
+HUL	A	16181	1653063	AC	6590	0.41	0	Collections. Series. Collected works
+HUL	B	131376	1653063	BL	10853	0.08	0.01	Religions. Mythology. Rationalism
+HUL	B	131376	1653063	BP	7554	0.06	0	Islam. Bahaism. Theosophy, etc.
+HUL	D	247607	1653063	DJ	1931	0.01	0	Netherlands (Holland)
+HUL	H	220318	1653063	HS	1414	0.01	0	Societies: secret, benevolent, etc.
+HUL	P	453051	1653063	PK	7806	0.02	0	Indo-Iranian languages and literatures
+HUL	V	3714	1653063	VK	766	0.21	0	Navigation. Merchant marine
+HUL	C	17042	1653063	CJ	1230	0.07	0	Numismatics
+HUL	C	17042	1653063	CB	2121	0.12	0	History of Civilization
+HUL	T	32130	1653063	TX	2870	0.09	0	Home economics
+HUL	G	43854	1653063	GC	708	0.02	0	Oceanography
+HUL	U	12403	1653063	UC	350	0.03	0	Military maintenance and transportation
+HUL	Q	43216	1653063	QE	6563	0.15	0	Geology
+HUL	P	453051	1653063	PS	37907	0.08	0.02	American literature
+HUL	U	12403	1653063	UB	1265	0.1	0	Military administration
+HUL	B	131376	1653063	BH	1313	0.01	0	Aesthetics
+HUL	B	131376	1653063	BQ	4866	0.04	0	Buddhism
+HUL	S	11303	1653063	SK	436	0.04	0	Hunting
+HUL	T	32130	1653063	TJ	1405	0.04	0	Mechanical engineering and machinery
+HUL	A	16181	1653063	AM	6701	0.41	0	Museums. Collectors and collecting
+HUL	B	131376	1653063	BD	4524	0.03	0	Speculative philosophy
+HUL	P	453051	1653063	PZ	5604	0.01	0	Fiction and juvenile belles lettres
+HUL	H	220318	1653063	HA	1423	0.01	0	Statistics
+HUL	T	32130	1653063	TE	138	0	0	Highway engineering. Roads and pavements
+HUL	D	247607	1653063	DR	7122	0.03	0	Balkan Peninsula
+HUL	G	43854	1653063	GB	1663	0.04	0	Physical geography
+HUL	V	3714	1653063	VM	880	0.24	0	Naval architecture. Shipbuilding. Marine engineering
+HUL	U	12403	1653063	U	2924	0.24	0	Military science (General)
+HUL	D	247607	1653063	DH	1996	0.01	0	Low Countries, Benelux Countries
+HUL	G	43854	1653063	GV	14949	0.34	0.01	Recreation. Leisure
+HUL	K	146458	1653063	KD	44651	0.3	0.03	United Kingdom and Ireland
+HUL	J	58721	1653063	JK	3226	0.05	0	Political institutions and public administration (United States)
+HUL	S	11303	1653063	SH	1045	0.09	0	Aquaculture. Fisheries. Angling
+HUL	V	3714	1653063	V	846	0.23	0	Naval science (General)
+HUL	Q	43216	1653063	Q	5604	0.13	0	Science (General)
+HUL	J	58721	1653063	JZ	4129	0.07	0	International relations
+HUL	B	131376	1653063	BJ	4756	0.04	0	Ethics
+HUL	J	58721	1653063	JF	2469	0.04	0	Political institutions and public administration
+HUL	R	21379	1653063	RG	639	0.03	0	Gynecology and Obstetrics
+HUL	T	32130	1653063	TN	2077	0.06	0	Mining engineering. Metallurgy
+HUL	C	17042	1653063	CS	4270	0.25	0	Genealogy
+HUL	N	48483	1653063	NC	2955	0.06	0	Drawing. Design. Illustration
+HUL	R	21379	1653063	RB	211	0.01	0	Pathology
+HUL	T	32130	1653063	TA	1371	0.04	0	Engineering Civil engineering (General).
+HUL	G	43854	1653063	G	5889	0.13	0	Geography (General). Atlases. Maps
+HUL	N	48483	1653063	ND	9947	0.21	0.01	Painting
+HUL	K	146458	1653063	KG	7727	0.05	0	Latin America, Mexico and Central America, West Indies. Caribbean area
+HUL	Q	43216	1653063	QD	2302	0.05	0	Chemistry
+HUL	N	48483	1653063	NB	2459	0.05	0	Sculpture
+HUL	T	32130	1653063	TD	3375	0.11	0	Environmental technology. Sanitary engineering
+HUL	P	453051	1653063	PB	1573	0	0	Modern languages. Celtic languages and literature
+HUL	L	29549	1653063	LE	625	0.02	0	Individual institutions - America (except United States)
+HUL	Q	43216	1653063	QL	2344	0.05	0	Zoology
+HUL	T	32130	1653063	TS	1244	0.04	0	Manufacturing engineering. Mass production
+HUL	T	32130	1653063	TT	888	0.03	0	Handicrafts. Arts and crafts
+HUL	T	32130	1653063	TK	2881	0.09	0	Electrical engineering. Electronics. Nuclear engineering
+HUL	S	11303	1653063	SB	1897	0.17	0	Horticulture. Plant propagation. Plant breeding
+HUL	L	29549	1653063	L	508	0.02	0	Education (General)
+HUL	S	11303	1653063	S	5318	0.47	0	Agriculture (General)
+HUL	M	23085	1653063	M	1160	0.05	0	Music
+HUL	N	48483	1653063	NA	6453	0.13	0	Architecture
+HUL	Q	43216	1653063	QR	306	0.01	0	Microbiology
+HUL	U	12403	1653063	UG	2292	0.18	0	Military engineering. Air forces
+HUL	A	16181	1653063	AZ	520	0.03	0	History of scholarship and learning. The humanities
+HUL	S	11303	1653063	SF	1515	0.13	0	Animal husbandry. Animal science
+HUL	T	32130	1653063	TC	974	0.03	0	Hydraulic engineering. Ocean engineering
+HUL	Q	43216	1653063	QB	1752	0.04	0	Astronomy
+HUL	L	29549	1653063	LD	578	0.02	0	Individual institutions - United States
+HUL	G	43854	1653063	GA	493	0.01	0	Mathematical geography. Cartography
+HUL	R	21379	1653063	RS	541	0.03	0	Pharmacy and materia medica
+HUL	R	21379	1653063	RJ	843	0.04	0	Pediatrics
+HUL	K	146458	1653063	KH	1801	0.01	0	South America
+HUL	V	3714	1653063	VD	260	0.07	0	Naval seamen
+HUL	C	17042	1653063	CN	500	0.03	0	Inscriptions. Epigraphy
+HUL	N	48483	1653063	NK	4809	0.1	0	Decorative arts
+HUL	R	21379	1653063	RM	527	0.02	0	Therapeutics. Pharmacology
+HUL	U	12403	1653063	UH	260	0.02	0	Other military services
+HUL	K	146458	1653063	KK	3244	0.02	0	Europe
+HUL	D	247607	1653063	DJK	802	0	0	Eastern Europe (General)
+HUL	K	146458	1653063	KBP	279	0	0	Islamic law
+HUL	K	146458	1653063	KZ	1863	0.01	0	Law of nations
+HUL	G	43854	1653063	GE	1938	0.04	0	Environmental Sciences
+HUL	D	247607	1653063	DE	461	0	0	Greco-Roman World
+HUL	K	146458	1653063	KBU	203	0	0	Law of the Roman Catholic Church. The Holy See
+HUL	L	29549	1653063	LG	869	0.03	0	Individual institutions - Asia, Africa, Indian Ocean islands, Australia, New Zealand, Pacific islands
+HUL	K	146458	1653063	KJ	1091	0.01	0	Europe
+HUL	R	21379	1653063	RT	321	0.02	0	Nursing
+HUL	U	12403	1653063	UF	284	0.02	0	Artillery
+HUL	D	247607	1653063	DX	387	0	0	History of the Romani people
+HUL	K	146458	1653063	KU	585	0	0	Law of Australia and New Zealand
+HUL	A	16181	1653063	AE	106	0.01	0	Encyclopedias
+HUL	M	23085	1653063	MT	1091	0.05	0	Instruction and study
+HUL	T	32130	1653063	TG	190	0.01	0	Bridges
+HUL	R	21379	1653063	RK	69	0	0	Dentistry
+HUL	Q	43216	1653063	QM	210	0	0	Human anatomy
+HUL	Z	16757	1653063	ZA	380	0.02	0	Information resources/materials
+HUL	K	146458	1653063	KDZ	278	0	0	America. North America
+HUL	V	3714	1653063	VA	629	0.17	0	Navies: Organization, distribution, naval situation
+HUL	V	3714	1653063	VE	93	0.03	0	Marines
+HUL	R	21379	1653063	RE	74	0	0	Ophthalmology
+HUL	C	17042	1653063	CE	161	0.01	0	Technical Chronology. Calendar
+HUL	A	16181	1653063	AY	73	0	0	Yearbooks. Almanacs. Directories
+HUL	D	247607	1653063	DAW	131	0	0	Central Europe
+HUL	K	146458	1653063	KBR	102	0	0	History of canon law
+HUL	R	21379	1653063	RZ	106	0	0	Other systems of medicine
+HUL	K	146458	1653063	KL	43	0	0	Asia and Eurasia, Africa, Pacific Area, and Antarctica
+HUL	V	3714	1653063	VB	64	0.02	0	Naval administration
+HUL	V	3714	1653063	VG	134	0.04	0	Minor services of navies
+HUL	R	21379	1653063	RX	71	0	0	Homeopathy
+HUL	A	16181	1653063	AG	165	0.01	0	Dictionaries and other general reference works
+HUL	V	3714	1653063	VC	24	0.01	0	Naval maintenance
+HUL	U	12403	1653063	UE	46	0	0	Cavalry. Armor
+HUL	L	29549	1653063	LT	7	0	0	Textbooks
+HUL	A	16181	1653063	AI	12	0	0	Indexes
+HUL	L	29549	1653063	LJ	11	0	0	Student fraternities and societies, United States
+HUL	K	146458	1653063	KBM	63	0	0	Jewish law
+HUL	K	146458	1653063	KB	18	0	0	Religious law in general. Comparative religious law. Jurisprudence
+HUL	R	21379	1653063	RF	28	0	0	Otorhinolaryngology
+HUL	V	3714	1653063	VF	18	0	0	Naval ordnance
+HUL	R	21379	1653063	RL	30	0	0	Dermatology
+HUL	R	21379	1653063	RV	2	0	0	Botanic, Thomsonian, and Eclectic medicine
+HUL	J	58721	1653063	JJ	4	0	0	Political institutions and public administration (North America)
+HUL	L	29549	1653063	LH	6	0	0	College and school magazines and papers
+HUL	K	146458	1653063	KBT	2	0	0	Canon law of Eastern Rite Churches in Communion with the Holy See of Rome
+HUL	K	146458	1653063	KBS	5	0	0	Canon law of Eastern churches
+HUL	A	16181	1653063	AN	2	0	0	Newspapers

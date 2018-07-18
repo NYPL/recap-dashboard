@@ -1,0 +1,85 @@
+institution	broad_subject_letters	N	totalinst	perc	broad_subject
+CUL	H	324644	2268893	0.14	Social Sciences
+CUL	D	289497	2268893	0.13	World History (except American History)
+CUL	B	210694	2268893	0.09	Philosophy, Psychology, Religion
+CUL	P	579911	2268893	0.26	Language and Literature
+CUL	N	154342	2268893	0.07	Fine Arts
+CUL	S	13813	2268893	0.01	Agriculture
+CUL	G	51954	2268893	0.02	Geography, Anthropology, Recreation
+CUL	T	78343	2268893	0.03	Technology
+CUL	C	17443	2268893	0.01	Auxiliary Sciences of History (General)
+CUL	Q	126748	2268893	0.06	Science
+CUL	R	80051	2268893	0.04	Medicine
+CUL	Z	52705	2268893	0.02	Bibliography, Library Science
+CUL	E	20341	2268893	0.01	American History
+CUL	J	56234	2268893	0.02	Political Science
+CUL	M	72866	2268893	0.03	Music
+CUL	F	56911	2268893	0.03	Local History of the United States and British, Dutch, French, and Latin America
+CUL	U	15335	2268893	0.01	Military Science
+CUL	A	15949	2268893	0.01	General Works
+CUL	L	36462	2268893	0.02	Education
+CUL	K	11243	2268893	0	Law
+CUL	V	3407	2268893	0	Naval Science
+PUL	H	197369	1267893	0.16	Social Sciences
+PUL	P	305015	1267893	0.24	Language and Literature
+PUL	M	21222	1267893	0.02	Music
+PUL	B	128274	1267893	0.1	Philosophy, Psychology, Religion
+PUL	G	38789	1267893	0.03	Geography, Anthropology, Recreation
+PUL	L	32458	1267893	0.03	Education
+PUL	D	186573	1267893	0.15	World History (except American History)
+PUL	E	19502	1267893	0.02	American History
+PUL	R	22209	1267893	0.02	Medicine
+PUL	Q	69304	1267893	0.05	Science
+PUL	N	21517	1267893	0.02	Fine Arts
+PUL	C	14898	1267893	0.01	Auxiliary Sciences of History (General)
+PUL	V	3034	1267893	0	Naval Science
+PUL	T	36929	1267893	0.03	Technology
+PUL	J	52212	1267893	0.04	Political Science
+PUL	Z	20953	1267893	0.02	Bibliography, Library Science
+PUL	F	33073	1267893	0.03	Local History of the United States and British, Dutch, French, and Latin America
+PUL	U	10671	1267893	0.01	Military Science
+PUL	S	12042	1267893	0.01	Agriculture
+PUL	K	25901	1267893	0.02	Law
+PUL	A	15948	1267893	0.01	General Works
+NYPL	D	81530	731528	0.11	World History (except American History)
+NYPL	H	158301	731528	0.22	Social Sciences
+NYPL	J	24330	731528	0.03	Political Science
+NYPL	Q	60835	731528	0.08	Science
+NYPL	T	57634	731528	0.08	Technology
+NYPL	B	52105	731528	0.07	Philosophy, Psychology, Religion
+NYPL	P	165365	731528	0.23	Language and Literature
+NYPL	Z	16445	731528	0.02	Bibliography, Library Science
+NYPL	S	5533	731528	0.01	Agriculture
+NYPL	G	17868	731528	0.02	Geography, Anthropology, Recreation
+NYPL	K	9366	731528	0.01	Law
+NYPL	R	8532	731528	0.01	Medicine
+NYPL	L	9263	731528	0.01	Education
+NYPL	V	2030	731528	0	Naval Science
+NYPL	F	13614	731528	0.02	Local History of the United States and British, Dutch, French, and Latin America
+NYPL	N	20409	731528	0.03	Fine Arts
+NYPL	C	9933	731528	0.01	Auxiliary Sciences of History (General)
+NYPL	A	4390	731528	0.01	General Works
+NYPL	E	6091	731528	0.01	American History
+NYPL	M	2190	731528	0	Music
+NYPL	U	5764	731528	0.01	Military Science
+HUL	P	453051	1653063	0.27	Language and Literature
+HUL	H	220318	1653063	0.13	Social Sciences
+HUL	D	247607	1653063	0.15	World History (except American History)
+HUL	B	131376	1653063	0.08	Philosophy, Psychology, Religion
+HUL	Q	43216	1653063	0.03	Science
+HUL	R	21379	1653063	0.01	Medicine
+HUL	L	29549	1653063	0.02	Education
+HUL	N	48483	1653063	0.03	Fine Arts
+HUL	F	57177	1653063	0.03	Local History of the United States and British, Dutch, French, and Latin America
+HUL	M	23085	1653063	0.01	Music
+HUL	J	58721	1653063	0.04	Political Science
+HUL	E	19259	1653063	0.01	American History
+HUL	C	17042	1653063	0.01	Auxiliary Sciences of History (General)
+HUL	K	146458	1653063	0.09	Law
+HUL	Z	16757	1653063	0.01	Bibliography, Library Science
+HUL	A	16181	1653063	0.01	General Works
+HUL	U	12403	1653063	0.01	Military Science
+HUL	T	32130	1653063	0.02	Technology
+HUL	G	43854	1653063	0.03	Geography, Anthropology, Recreation
+HUL	S	11303	1653063	0.01	Agriculture
+HUL	V	3714	1653063	0	Naval Science

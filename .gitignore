@@ -1,2 +1,6 @@
 .DS_Store
 .Rhistory
+./harvard-data/
+./scsb-data/
+./the-app/rsconnect/
+./the-app/.DS_Store

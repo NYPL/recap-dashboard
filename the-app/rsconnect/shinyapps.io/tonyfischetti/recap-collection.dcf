@@ -1,0 +1,12 @@
+name: recap-collection
+title: recap-collection
+username:
+account: tonyfischetti
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 382547
+bundleId: 1486928
+url: https://tonyfischetti.shinyapps.io/recap-collection/
+when: 1531925021.38579
+asMultiple: FALSE
+asStatic: FALSE
