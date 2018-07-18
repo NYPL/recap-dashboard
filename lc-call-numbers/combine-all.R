@@ -113,8 +113,11 @@ tmp <- onlyvalid[, .(N_in_subject=.N), .(institution, broad_subject_letters, sub
 subjects <- sbroads[tmp, on=.(institution, broad_subject_letters)]
 
 subjects[, percent_in_category:=round(N_in_subject/N_in_broad, 2)]
-subjects[, percent_in_institution:=round(N_in_subject/N_in_broad, 2)]
+subjects[, percent_in_institution:=round(N_in_subject/totalinst, 2)]
 
+subjects[, subject:=get_lc_call_subject(subject_letters, already.parsed=TRUE, second.level=TRUE)]
+
+subjects %>% fwrite("../computed-data/lc-call-numbers/subjects.txt", sep="\t")
 
 
 

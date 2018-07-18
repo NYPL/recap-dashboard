@@ -10,10 +10,8 @@ options(warn=1)
 options(echo=TRUE)
 
 
-# langxwalk <- fread("../support/langcodexwalk.txt", header=TRUE)
-# langxwalk[, V3:=NULL]
-# langxwalk[, V4:=NULL]
-# setkey(langxwalk, langcode)
+langxwalk <- fread("../support/lang-xwalk.txt", header=TRUE)
+setkey(langxwalk, langcode)
 
 
 ###############
@@ -69,6 +67,7 @@ comb <- rbind(cul, pul, nypl)
 comb[, .N]
 comb[, .N, institution]
 comb[, valid_lang_p:=!is.na(langcode)]
+comb[, valid_lang_p:=(langcode %in% langxwalk[, langcode])]
 
 comb[, .N, .(institution, valid_lang_p)] %>% dcast(institution ~ valid_lang_p, value.var="N") -> validxtab
 setnames(validxtab, c("institution", "invalid", "valid"))
@@ -88,6 +87,8 @@ this <- onlyvalid[, .N, .(institution, langcode)]
 this[this[, sum(N), institution], on="institution"] -> this
 setnames(this, "V1", "totalinst")
 this[, perc:=round(N/totalinst, 2)]
+
+langxwalk[this, on="langcode"] -> this
 
 this %>% fwrite("../computed-data/language/languages.txt", sep="\t")
 
