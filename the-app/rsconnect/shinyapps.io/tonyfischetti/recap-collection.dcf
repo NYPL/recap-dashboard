@@ -5,8 +5,8 @@ account: tonyfischetti
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 382547
-bundleId: 1486928
+bundleId: 1492003
 url: https://tonyfischetti.shinyapps.io/recap-collection/
-when: 1531925021.38579
+when: 1532114493.83492
 asMultiple: FALSE
 asStatic: FALSE

@@ -16,8 +16,11 @@ options(warn=1)
 validxtab <- fread("./valid-lc-call-xtab.txt")
 TOTALBIBS <- validxtab[institution=="CUL", numofbibs] + validxtab[institution=="PUL", numofbibs]+ validxtab[institution=="NYPL", numofbibs]
 
-instxwalk <- data.table(institution=c("NYPL", "CUL", "PUL", "HUL"),
-                        instname=c("NYPL", "Columbia", "Princeton", "Harvard"))
+instxwalk <- data.table(institution=c("NYPL", "CUL", "PUL", "HUL",
+                                      "bulk", "EDD", "google", "ILL", "recapreading"),
+                        instname=c("NYPL", "Columbia", "Princeton", "Harvard",
+                                   "Bulk", "Electronic Document Delivery",
+                                   "Google", "Interlibrary Loan", "ReCAP Reading Room"))
 setkey(instxwalk, institution)
 
 validxtab[, .(institution, invalid, valid)] %>% melt(id="institution", measures.var=c("valid", "invalid")) -> tmp
@@ -39,6 +42,9 @@ instxwalk[years] -> years
 subjects <- fread("./subjects.txt")
 instxwalk[subjects] -> subjects
 
+
+reqmovdat <- fread("./all-movement.txt")
+
 #####################################
 
 header <- dashboardHeader(
@@ -53,7 +59,8 @@ sidebar <- dashboardSidebar(
     menuItem("Broad Subject Analysis", tabName = "broadsubject", icon = icon("envelope")),
     menuItem("Detailed Subject Analysis", tabName = "detailedsubject", icon = icon("envelope-open")),
     menuItem("Language Analysis", tabName = "language", icon = icon("language")),
-    menuItem("Publication Year Analysis", tabName = "pubyear", icon = icon("calendar"))
+    menuItem("Publication Year Analysis", tabName = "pubyear", icon = icon("calendar")),
+    menuItem("Request Movement", tabName = "reqmovement", icon = icon("exchange"))
   )
 )
 
@@ -249,9 +256,65 @@ body <- dashboardBody(
             fluidRow(
               tags$pre("     * years above 2018 or below 1800 are considered invalid")
             )
+    ),
+    
+    
+    # REQUEST MOVEMENT TAB
+    tabItem(tabName = "reqmovement",
+            h2("Request Movement Analysis"),
+            br(),
+            fluidRow(
+              valueBoxOutput("nyplReqsFromBox"),
+              valueBoxOutput("culReqsFromBox"),
+              valueBoxOutput("pulReqsFromBox")
+              #valueBoxOutput("hulReqsFromBox")
+            ),
+    #         fluidRow(
+    #           valueBoxOutput("nyplReqsFromPercBox"),
+    #           valueBoxOutput("culReqsFromPercBox"),
+    #           valueBoxOutput("pulReqsFromPercBox"),
+    #           valueBoxOutput("hulReqsFromPercBox")
+    #         ),
+            fluidRow(
+              valueBoxOutput("nyplReqsToBox"),
+              valueBoxOutput("culReqsToBox"),
+              valueBoxOutput("pulReqsToBox")
+              #valueBoxOutput("hulReqsToBox")
+            ),
+    #         fluidRow(
+    #           valueBoxOutput("nyplReqsToPercBox"),
+    #           valueBoxOutput("culReqsToPercBox"),
+    #           valueBoxOutput("pulReqsToPercBox"),
+    #           valueBoxOutput("hulReqsToPercBox")
+    #         ),
+    #         
+            fluidRow(
+              column(12,
+                     box(plotOutput("giveandtakeplot"), width=12)
+              )
+            ),
+            fluidRow(
+              column(12,
+                     box(plotOutput("reqpercplot"), width=8),
+                     box(
+                       title = "Controls",
+                       selectInput("reqpercinstitution", "Institution",
+                                   c("NYPL" = "NYPL",
+                                     "Columbia University" = "CUL",
+                                     "Princeton University" = "PUL",
+                                     "Harvard University" = "HUL")),
+                       radioButtons("reqpercinorout", "Incoming or Outgoing",
+                                    c("Incoming" = "percentage_incoming_requests",
+                                      "Outgoing" = "percentage_outgoing_requests")),
+                       width=4
+                     )
+              )
+            ),
+            fluidRow(br(), br()),
+            fluidRow(
+              tags$pre("     * only includes transaction data from 2017-06-26 to 2018-07-17")
+            )
     )
-    
-    
     
     
     
@@ -510,6 +573,103 @@ server <- function(input, output) {
   
   
   
+  output$nyplReqsFromBox <- renderValueBox({
+    valueBox(
+      prettyNum(reqmovdat[order_owner=="NYPL", sum(N)], big.mark=","),
+      "Number of requests *by* the NYPL*",
+      color="red",
+      icon=icon("exchange")
+    )
+  })
+  output$culReqsFromBox <- renderValueBox({
+    valueBox(
+      prettyNum(reqmovdat[order_owner=="CUL", sum(N)], big.mark=","),
+      "Number of requests *by* Columbia*",
+      color="blue",
+      icon=icon("exchange")
+    )
+  })
+  output$pulReqsFromBox <- renderValueBox({
+    valueBox(
+      prettyNum(reqmovdat[order_owner=="PUL", sum(N)], big.mark=","),
+      "Number of requests *by* Princeton*",
+      color="yellow",
+      icon=icon("exchange")
+    )
+  })
+  output$hulReqsFromBox <- renderValueBox({
+    valueBox(
+      prettyNum(reqmovdat[order_owner=="HUL", sum(N)], big.mark=","),
+      "Number of requests *by* Harvard*",
+      color="black",
+      icon=icon("exchange")
+    )
+  })
+  output$nyplReqsToBox <- renderValueBox({
+    valueBox(
+      prettyNum(reqmovdat[item_owner=="NYPL", sum(N)], big.mark=","),
+      "Number of requests for NYPL material*",
+      color="red",
+      icon=icon("exchange")
+    )
+  })
+  output$culReqsToBox <- renderValueBox({
+    valueBox(
+      prettyNum(reqmovdat[item_owner=="CUL", sum(N)], big.mark=","),
+      "Number of requests for Columbia material*",
+      color="blue",
+      icon=icon("exchange")
+    )
+  })
+  output$pulReqsToBox <- renderValueBox({
+    valueBox(
+      prettyNum(reqmovdat[item_owner=="PUL", sum(N)], big.mark=","),
+      "Number of requests for Princeton material*",
+      color="yellow",
+      icon=icon("exchange")
+    )
+  })
+  output$hulReqsToBox <- renderValueBox({
+    valueBox(
+      prettyNum(reqmovdat[item_owner=="HUL", sum(N)], big.mark=","),
+      "Number of requests for Harvard material*",
+      color="black",
+      icon=icon("exchange")
+    )
+  })
+  output$giveandtakeplot <- renderPlot({
+    rbind(melt(reqmovdat[, .(Requested=sum(N)), .(institution=item_owner)],
+               id.vars="institution", value.vars="Requested"),
+          melt(reqmovdat[, .(Requests=sum(N)), .(institution=order_owner)],
+               id.vars="institution", value.vars="Requests")) -> tmp
+    
+    ggplot(tmp, aes(x=instxwalk[institution, instname], y=value/1000, group=variable, fill=variable)) +
+      geom_bar(stat="identity", position=position_dodge()) +
+      guides(fill=guide_legend(title="")) +
+      xlab("Institution") + ylab("Number of materials (in thousands)") +
+      ggtitle("Comparison between materials requested and requests across institutions")
+  })
+  output$reqpercplot <- renderPlot({
+    
+    relvar <- input$reqpercinorout
+    
+    if(relvar=="percentage_incoming_requests"){
+      reqmovdat[item_owner==input$reqpercinstitution,
+                .(institution=order_owner, percentage=percentage_incoming_requests)] -> tmp
+      themessage <- "Where do %s items go?"
+    }
+    else{
+      reqmovdat[order_owner==input$reqpercinstitution,
+                .(institution=item_owner, percentage=percentage_outgoing_requests)] -> tmp
+      themessage <- "Where do %s requests come from?"
+    }
+    
+    pie(tmp[,percentage], labels=instxwalk[tmp[, institution], instname],
+        main=sprintf(themessage, instxwalk[input$reqpercinstitution, instname]))
+  })
+  
+  
+  
   
 }
 
@@ -517,7 +677,5 @@ server <- function(input, output) {
 
 
 shinyApp(ui, server)
-
-
 
 

@@ -1,0 +1,19 @@
+item_owner	order_owner	N	percentage_incoming_requests	percentage_outgoing_requests
+CUL	CUL	42417	0.47	0.74
+CUL	PUL	8726	0.1	0.29
+CUL	ILL	4802	0.05	
+CUL	NYPL	464	0.01	0.01
+HUL	HUL	3830	0.98	1
+HUL	ILL	77	0.02	
+PUL	CUL	6454	0.22	0.11
+PUL	PUL	16254	0.56	0.54
+PUL	ILL	5817	0.2	
+PUL	NYPL	401	0.01	0.01
+PUL	bulk	66	0	
+NYPL	CUL	8728	0.19	0.15
+NYPL	NYPL	30124	0.64	0.97
+NYPL	PUL	5216	0.11	0.17
+NYPL	ILL	3032	0.06	
+NYPL	recapreading	1	0	
+CUL	bulk	2	0	
+CUL	google	33284	0.37	

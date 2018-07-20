@@ -9,3 +9,6 @@ cp ./computed-data/language/languages.txt  ./the-app/
 
 cp ./computed-data/year-of-pub/valid-year-xtab.txt ./the-app/
 cp ./computed-data/year-of-pub/years-SAMPLE.txt ./the-app/
+
+
+cp ./computed-data/request-movement/all-movement.txt ./the-app/
